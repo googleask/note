@@ -1,3 +1,4 @@
+#一些东西
   touch README.md SUMMARY.md
   git init
   git add README.md SUMMARY.md
